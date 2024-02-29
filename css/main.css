@@ -1168,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #79ffb6;
+  background: #ff839f;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2396,7 +2396,7 @@ hr {
     box-sizing: border-box;
     padding: 4px;
     border-radius: 8px;
-    background-color: #ddd;
+    background-color: #a9a9a9;
   }
 }
 @media (min-width: 800px) {
@@ -2408,7 +2408,7 @@ hr {
     box-sizing: border-box;
     padding: 4px;
     border-radius: 8px;
-    background-color: #ddd;
+    background-color: #a9a9a9;
   }
 }
 .card {
@@ -2417,7 +2417,7 @@ hr {
   margin: 0 auto;
   padding: 4px;
   border-radius: 8px;
-  background-color: #ddd;
+  background-color: #a9a9a9;
 }
 .ImageInCard img {
   padding: 0 0 0 0;
@@ -2445,7 +2445,7 @@ hr {
     box-sizing: border-box;
     padding: 4px;
     border-radius: 8px;
-    background-color: #ddd;
+    background-color: #a9a9a9;
   }
 }
 @media (min-width: 800px) {
@@ -2457,7 +2457,7 @@ hr {
     box-sizing: border-box;
     padding: 4px;
     border-radius: 8px;
-    background-color: #ddd;
+    background-color: #a9a9a9;
   }
 }
 .card {
@@ -2465,8 +2465,7 @@ hr {
   box-sizing: border-box;
   margin: 0 auto;
   padding: 4px;
-  border-radius: 8px;
-  background-color: #ddd;
+  background-color: #a9a9a9;
 }
 .ImageInCard img {
   padding: 0 0 0 0;
